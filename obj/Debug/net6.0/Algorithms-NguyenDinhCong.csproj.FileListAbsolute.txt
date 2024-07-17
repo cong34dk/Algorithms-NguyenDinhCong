@@ -1,0 +1,15 @@
+D:\congIT\C#\Algorithms-NguyenDinhCong\bin\Debug\net6.0\Algorithms-NguyenDinhCong.exe
+D:\congIT\C#\Algorithms-NguyenDinhCong\bin\Debug\net6.0\Algorithms-NguyenDinhCong.deps.json
+D:\congIT\C#\Algorithms-NguyenDinhCong\bin\Debug\net6.0\Algorithms-NguyenDinhCong.runtimeconfig.json
+D:\congIT\C#\Algorithms-NguyenDinhCong\bin\Debug\net6.0\Algorithms-NguyenDinhCong.dll
+D:\congIT\C#\Algorithms-NguyenDinhCong\bin\Debug\net6.0\Algorithms-NguyenDinhCong.pdb
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.GeneratedMSBuildEditorConfig.editorconfig
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.AssemblyInfoInputs.cache
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.AssemblyInfo.cs
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.csproj.CoreCompileInputs.cache
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.dll
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\refint\Algorithms-NguyenDinhCong.dll
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.pdb
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.genruntimeconfig.cache
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\ref\Algorithms-NguyenDinhCong.dll
+D:\congIT\C#\Algorithms-NguyenDinhCong\obj\Debug\net6.0\Algorithms-NguyenDinhCong.sourcelink.json
