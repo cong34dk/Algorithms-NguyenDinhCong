@@ -12,6 +12,7 @@ namespace Algorithms_NguyenDinhCong.Models
         public decimal Price { get; set; }
         public int Quality { get; set; }
         public int CategoryId { get; set; }
+        public string CategoryName { get; set; } // Thuộc tính mới để lưu tên danh mục
 
         public Product(string name, decimal price, int quality, int categoryId)
         {

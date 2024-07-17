@@ -19,7 +19,7 @@ namespace Algorithms_NguyenDinhCong.DAL
             new Product("Mouse", 25, 50, 4),
             new Product("VGA", 60, 35, 3),
             new Product("Monitor", 120, 28, 2),
-            new Product("Case", 120, 28, 5)
+            new Product("Case", 120, 28, 4)
         };
 
         //Phuong thuc lay tat ca san pham

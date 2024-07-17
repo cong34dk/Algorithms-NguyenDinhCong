@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algorithms-NguyenDinhCong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c69a3adc742c74d689e18e91355aa63c90b1f7d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e178e6a2055b8219464bc074768a5154ca0a6fc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algorithms-NguyenDinhCong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algorithms-NguyenDinhCong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

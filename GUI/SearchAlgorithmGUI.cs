@@ -19,9 +19,6 @@ namespace Algorithms_NguyenDinhCong.GUI
             // Sử dụng phương thức từ BLL để tìm sản phẩm
             List<Product> foundProducts = SearchAlgorithmBLL.FindProduct(products, "Mo");
 
-            //In 
-            Console.WriteLine("\nBai 4");
-
             if (foundProducts.Count > 0)
             {
                 foreach (Product foundProduct in foundProducts)
@@ -41,9 +38,6 @@ namespace Algorithms_NguyenDinhCong.GUI
             int categoryId = 1;
             List<Product> products = productDAL.GetProducts(); // Lấy danh sách sản phẩm từ DAL
             List<Product> foundProducts = SearchAlgorithmBLL.FindProductByCategory(products, categoryId);
-
-            //In 
-            Console.WriteLine("\nBai 5");
 
             if (foundProducts.Count > 0)
             {
@@ -65,8 +59,6 @@ namespace Algorithms_NguyenDinhCong.GUI
             List<Product> products = productDAL.GetProducts();
 
             List<Product> foundProducts = SearchAlgorithmBLL.FindProductByPrice(products, 50);
-
-            Console.WriteLine("\nBai 6");
 
             if(foundProducts.Count > 0)
             {
