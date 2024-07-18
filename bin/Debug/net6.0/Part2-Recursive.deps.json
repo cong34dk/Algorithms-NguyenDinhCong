@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Part2-Recursive/1.0.0": {
+        "runtime": {
+          "Part2-Recursive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part2-Recursive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

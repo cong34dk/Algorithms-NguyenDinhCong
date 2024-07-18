@@ -1,0 +1,14 @@
+D:\congIT\C#\Part2-Recursive\bin\Debug\net6.0\Part2-Recursive.exe
+D:\congIT\C#\Part2-Recursive\bin\Debug\net6.0\Part2-Recursive.deps.json
+D:\congIT\C#\Part2-Recursive\bin\Debug\net6.0\Part2-Recursive.runtimeconfig.json
+D:\congIT\C#\Part2-Recursive\bin\Debug\net6.0\Part2-Recursive.dll
+D:\congIT\C#\Part2-Recursive\bin\Debug\net6.0\Part2-Recursive.pdb
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\Part2-Recursive.GeneratedMSBuildEditorConfig.editorconfig
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\Part2-Recursive.AssemblyInfoInputs.cache
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\Part2-Recursive.AssemblyInfo.cs
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\Part2-Recursive.csproj.CoreCompileInputs.cache
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\Part2-Recursive.dll
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\refint\Part2-Recursive.dll
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\Part2-Recursive.pdb
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\Part2-Recursive.genruntimeconfig.cache
+D:\congIT\C#\Part2-Recursive\obj\Debug\net6.0\ref\Part2-Recursive.dll
